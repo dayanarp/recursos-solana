@@ -2,6 +2,7 @@
 Este repositorio contiene una lista de recursos útiles para aprender sobre la blockchain de Solana.
 
 ###  🔧  Herramientas
+-  [Solana CLI](https://docs.solanalabs.com/es/cli/)
 -  [Solana Playground](https://beta.solpg.io/)
 -  [Anchor](https://www.anchor-lang.com/)
 -  [Steel](https://github.com/regolith-labs/steel)
